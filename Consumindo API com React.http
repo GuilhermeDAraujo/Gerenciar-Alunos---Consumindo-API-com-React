@@ -1,0 +1,6 @@
+@Consumindo_API_com_React_HostAddress = http://localhost:5169
+
+GET {{Consumindo_API_com_React_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
